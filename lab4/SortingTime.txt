@@ -1,0 +1,7 @@
+Insertion sort took 1.2e-05 seconds
+Selection sort took 1.3e-05 seconds
+Bubble sort took 1e-05 seconds
+The array is: 1 2 3 4 5 
+Insertion sort took 6e-06 seconds
+Selection sort took 5e-06 seconds
+Bubble sort took 4e-06 seconds
